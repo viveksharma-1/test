@@ -54,7 +54,8 @@ void solve()
 {
     cout<<"hello_world ";
     s="jkasdhjkhdkahsjhdaskhkjhdkadasjkjkadjskjadksjks";
-    int = 4545;
+    int = 4545  ;
+
 }
 
 
