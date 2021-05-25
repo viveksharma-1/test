@@ -53,7 +53,8 @@ string s;
 void solve()
 {
     cout<<"hello_world ";
-    s="jkasdhjkhdkahsjhdaskhkjhdkas";
+    s="jkasdhjkhdkahsjhdaskhkjhdkadasjkjkadjskjadksjks";
+    int = 4545;
 }
 
 
