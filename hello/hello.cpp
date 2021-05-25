@@ -52,7 +52,8 @@ void clr()
 string s;
 void solve()
 {
-    cout<<"hello_world";
+    cout<<"hello_world ";
+    s="jkasdhjkhdkahsjhdaskhkjhdkas";
 }
 
 
